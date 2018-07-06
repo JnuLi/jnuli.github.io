@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: 主页
-  url: /
+  url: ./
 
 - title: resume
-  url: /resume/
+  url: ./resume/
 
 - title: paper
-  url: /paper/
+  url: ./paper/
 
 - title: project
-  url: /project/
+  url: ./project/
