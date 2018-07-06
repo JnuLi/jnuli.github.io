@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: About the Theme
+title: 简历
 tags: [about, Jekyll, theme, moon]
 date: 2018-07-06
 comments: false
