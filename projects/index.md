@@ -1,15 +1,9 @@
 ---
-layout: projects
-title: 个人简历
+layout: page
+title: 项目
 tags: [about, Jekyll, theme, moon]
-date: 2018-07-07
-comments: false
+date: 2018-08-28
+comments: true
 ---
 
-## 个人情况
-
-## 个人技能
-
-## 教育经历
-
-2015 年 9 月 - 2019 年 6 月 福建农林大学学数学与应用数学专业 本科
+# 机器智能实验室
