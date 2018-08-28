@@ -1,10 +1,13 @@
 # Site navigation links
 
 - title: 简历
-  url: /about/
+  url: /resume/
 
 - title: 论文
-  url: /posts/
+  url: /paper/
+
+- title: 文章
+  url: /article/
 
 - title: 项目
   url: /projects/
